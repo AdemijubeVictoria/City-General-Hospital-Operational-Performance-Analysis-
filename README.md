@@ -76,7 +76,7 @@
 
 --- 
 ## How to Run / View 
-1. Open `Dashboard.xlsx` in Excel  
+1. Open `City  General Hospital Analytics Dashboard.xlsx` in Excel  
 2. Enable content (if prompted) to allow Pivot Tables and slicers to work   
 3. Use slicers to filter by Gender, Age group Test result.   
 4. Refer to `Presentation.pdf` for a summary of insights and recommended actions
