@@ -1,6 +1,7 @@
 # CITY GENERAL HOSPITAL OPERATIONAL PERFORMANCE ANALYSIS
 
 **Author:** Ademijube Victoria Olamide
+
 **Date:** 2025-11-20
 
  --- 
@@ -67,9 +68,9 @@
 --- 
 
 ## Project Files (included) 
-- [Interactive dashboard file](City  General Hospital Analytics Dashboard.xlsx)  
-- [Raw data files used for analysis](City Hospital Dataset .xlsx)
-- [Presentation slide](CITY HOSPITAL OPERATIONAL PERFORMANCE ANALYSIS.pptx)  
+- `City  General Hospital Analytics Dashboard.xlsx` — interactive dashboard file  
+- `/City Hospital Dataset .xlsx/` — raw data files used for analysis (CSV / XLSX) 
+- `CITY HOSPITAL OPERATIONAL PERFORMANCE ANALYSIS.pptx` — boardroom slide deck (10–12 slides)   
 - `README.md` — this documentation 
 
 
@@ -86,5 +87,5 @@
 Ademijube Victoria Olamide
 
 Email: _ademijubevictoria2@gmail.com_   
-LinkedIn: _ https://www.linkedin.com/in/victoria-ademijube?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app _
+[LinkedIn](https://www.linkedin.com/in/victoria-ademijube?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
